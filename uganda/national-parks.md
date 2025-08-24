@@ -2,6 +2,7 @@
 title: Uganda's National Parks
 permalink: /uganda-national-parks/
 ---
+# Uganda's National Parks
 
 **Uganda’s National Parks - Ranked by Popularity**
 
