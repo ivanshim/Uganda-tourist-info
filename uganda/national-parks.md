@@ -4,7 +4,7 @@ permalink: /ugandas-national-parks/
 ---
 # Uganda's National Parks
 
-**Uganda’s National Parks - Ranked by Popularity**
+## Uganda’s National Parks - Ranked by Popularity
 
 |Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
 |-|-|-|-|
@@ -33,7 +33,7 @@ permalink: /ugandas-national-parks/
 
 ---
 
-**Uganda's National Parks - Direction & Distance from Kampala**
+## Uganda's National Parks - Direction & Distance from Kampala
 
 | - | - | - |
 | - | - | - |
