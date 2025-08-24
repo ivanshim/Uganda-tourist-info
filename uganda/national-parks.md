@@ -1,5 +1,5 @@
 ---
-title: Uganda National Parks
+title: Uganda's National Parks
 permalink: /uganda-national-parks/
 ---
 
