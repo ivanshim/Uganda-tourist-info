@@ -31,7 +31,7 @@ permalink: /uganda-national-parks/
 - Chimp trekking (Kibale NP – main site; also Kyambura Gorge in Queen Elizabeth NP, Budongo Forest near Murchison Falls): **US$200 (FNR), US$150 (FR), UGX 150,000 (EA)**  
 - Rwenzori mountain climbing (Rwenzori Mountains NP): **US$35 (FNR), US$25 (FR), UGX 20,000 (EA)**  
 
-
+---
 
 **Uganda's National Parks - Direction & Distance from Kampala**
 
