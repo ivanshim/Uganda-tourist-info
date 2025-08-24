@@ -1,2 +1,2 @@
-# Uganda-tourist-info
+# uganda
 Uganda tourist info
