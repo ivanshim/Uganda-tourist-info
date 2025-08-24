@@ -9,19 +9,6 @@ permalink: /ugandas-national-parks/
 |Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
 |-|-|-|-|
 |1|Queen Elizabeth NP|44,000–88,000|Most visited, tree-climbing lions, Kazinga Channel|
-|2|Murchison Falls NP|26,000–70,000|Largest NP, iconic waterfall on the Nile|
-|3|Lake Mburo NP|12,000–23,000|Closest to Kampala, zebras & impalas|
-|4|Bwindi Impenetrable NP|10,000–22,000|Gorilla trekking hotspot, UNESCO site|
-|5|Kibale NP|7,000–16,000|Chimp trekking capital, crater lakes|
-|6|Mgahinga Gorilla NP|2,000–8,900|Single habituated gorilla group, golden monkeys|
-|7|Semuliki NP|2,000–5,700|Hot springs, Congo rainforest biodiversity|
-|8|Mount Elgon NP|1,500–3,700|Extinct volcano, Sipi Falls nearby|
-|9|Rwenzori Mountains NP|1,000–2,700|Snow-capped peaks, trekking|
-|10|Kidepo Valley NP|<3,000|Remote but spectacular, lions & cheetahs|
-
-|Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
-|-|-|-|-|
-|1|Queen Elizabeth NP|44,000–88,000|Most visited, tree-climbing lions, Kazinga Channel|
 |2|Murchison Falls NP|26,000–71,000|Largest NP, iconic waterfall on the Nile|
 |3|Lake Mburo NP|12,500–23,000|Closest to Kampala, zebras & impalas|
 |4|Bwindi Impenetrable NP|9,600–21,700|Gorilla trekking hotspot, UNESCO site|
@@ -31,20 +18,6 @@ permalink: /ugandas-national-parks/
 |8|Mount Elgon NP|1,600–3,700|Extinct volcano, Sipi Falls nearby|
 |9|Rwenzori Mountains NP|900–2,700|Snow-capped peaks, trekking|
 |10|Kidepo Valley NP|800–3,200|Remote but spectacular, lions & cheetahs|
-
-
-|Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
-|-|-|-|-|
-|1|Queen Elizabeth NP|44k–88k|Most visited, tree-climbing lions, Kazinga Channel|
-|2|Murchison Falls NP|26k–71k|Largest NP, iconic waterfall on the Nile|
-|3|Lake Mburo NP|12.5k–23k|Closest to Kampala, zebras & impalas|
-|4|Bwindi Impenetrable NP|9.6k–21.7k|Gorilla trekking hotspot, UNESCO site|
-|5|Kibale NP|7k–15.8k|Chimp trekking capital, crater lakes|
-|6|Mgahinga Gorilla NP|1.9k–9k|Single habituated gorilla group, golden monkeys|
-|7|Semuliki NP|1.3k–5.8k|Hot springs, Congo rainforest biodiversity|
-|8|Mount Elgon NP|1.6k–3.7k|Extinct volcano, Sipi Falls nearby|
-|9|Rwenzori Mountains NP|0.9k–2.7k|Snow-capped peaks, trekking|
-|10|Kidepo Valley NP|0.8k–3.2k|Remote but spectacular, lions & cheetahs|
 
 **Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda).
 
