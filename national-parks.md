@@ -42,6 +42,9 @@
 |9|Mgahinga Gorilla NP|No data (low)|$40 (FNR), $30 (FR), UGX 20,000 (EA). Gorilla permit: $700 (FNR)|Single habituated gorilla group, golden monkeys|
 |10|Kidepo Valley NP|No data (low, remote)|$40 (FNR), $30 (FR), UGX 20,000 (EA)|Remote but spectacular, lions & cheetahs|
 |11|Mountains of the Moon NP*|No data (very low)|Same as Rwenzori: $35 (FNR), $25 (FR), UGX 20,000 (EA)|Sometimes considered part of Rwenzoris, niche trekking|
+
+
+
 Uganda National Parks - direction & distance from Kampala
 
 | - | - | - |
