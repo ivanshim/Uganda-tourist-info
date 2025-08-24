@@ -1,3 +1,4 @@
+**Uganda’s National Parks Ranked by Popularity**
 
 |Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
 |-|-|-|-|
