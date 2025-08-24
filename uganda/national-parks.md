@@ -19,7 +19,7 @@ permalink: /ugandas-national-parks/
 |9|Rwenzori Mountains NP|900–2,700|Snow-capped peaks, trekking|
 |10|Kidepo Valley NP|800–3,200|Remote but spectacular, lions & cheetahs|
 
-**Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda).
+**Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda){:target="_blank" rel="noopener noreferrer"}.
 
 **Entry fee (per 24 hrs):**  
 - Foreign non-residents (FNR): **US$35–45**  
@@ -41,7 +41,7 @@ permalink: /ugandas-national-parks/
 | **West**<br>Kibale (~310 km)<br>Rwenzori (~400 km)<br>Semuliki (~360 km) | **Kampala (Centre)** | **East**<br>Mount Elgon (~230 km) |
 | **South-West**<br>Bwindi (~480 km)<br>Queen Elizabeth (~410 km)<br>Lake Mburo (~240 km)<br>Mgahinga (~510 km) | **South**<br>- | **South-East**<br>- |
 
-**Reference:** [Parks &amp; Reserves - Uganda Wildlife Authority](https://ugandawildlife.org/parks-reserves/)
+**Reference:** [Parks &amp; Reserves - Uganda Wildlife Authority](https://ugandawildlife.org/parks-reserves/){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
