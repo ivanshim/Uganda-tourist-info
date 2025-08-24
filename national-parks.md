@@ -13,11 +13,16 @@
 |10|Kidepo Valley NP|No data (low, remote)|Remote but spectacular, lions & cheetahs|
 |11|Mountains of the Moon NP*|No data (very low)|Sometimes considered part of Rwenzoris, niche trekking|
 
-**Entry fee:**  
-- Foreign non-residents (FNR): **US$35–45** per 24 hrs  
-- Foreign residents (FR): **US$25–35** per 24 hrs  
-- East African citizens (EA): **UGX 20,000–25,000** per 24 hrs  
-- *Special permits:* Gorilla trekking US$700 (Bwindi & Mgahinga), Chimp trekking US$200 (Kibale)  
+**Entry fee (per 24 hrs):**  
+- Foreign non-residents (FNR): **US$35–45**  
+- Foreign residents (FR): **US$25–35**  
+- East African citizens (EA): **UGX 20,000–25,000**  
+
+**Special permits (per person):**  
+- Gorilla trekking: **US$700 (FNR), US$600 (FR), UGX 250,000 (EA)**  
+- Chimp trekking: **US$200 (FNR), US$150 (FR), UGX 150,000 (EA)**  
+- Rwenzori mountain climbing (per day): **US$35 (FNR), US$25 (FR), UGX 20,000 (EA)**  
+
 
 
 Uganda National Parks - direction & distance from Kampala
