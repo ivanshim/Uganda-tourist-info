@@ -1,2 +1,2 @@
-# uganda
-Uganda tourist info
+# Ivan Shim's web page
+
