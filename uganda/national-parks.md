@@ -21,6 +21,20 @@ permalink: /ugandas-national-parks/
 
 |Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
 |-|-|-|-|
+|1|Queen Elizabeth NP|44,000–88,000|Most visited, tree-climbing lions, Kazinga Channel|
+|2|Murchison Falls NP|26,000–71,000|Largest NP, iconic waterfall on the Nile|
+|3|Lake Mburo NP|12,500–23,000|Closest to Kampala, zebras & impalas|
+|4|Bwindi Impenetrable NP|9,600–21,700|Gorilla trekking hotspot, UNESCO site|
+|5|Kibale NP|7,000–15,800|Chimp trekking capital, crater lakes|
+|6|Mgahinga Gorilla NP|1,900–9,000|Single habituated gorilla group, golden monkeys|
+|7|Semuliki NP|1,300–5,800|Hot springs, Congo rainforest biodiversity|
+|8|Mount Elgon NP|1,600–3,700|Extinct volcano, Sipi Falls nearby|
+|9|Rwenzori Mountains NP|900–2,700|Snow-capped peaks, trekking|
+|10|Kidepo Valley NP|800–3,200|Remote but spectacular, lions & cheetahs|
+
+
+|Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
+|-|-|-|-|
 |1|Queen Elizabeth NP|44k–88k|Most visited, tree-climbing lions, Kazinga Channel|
 |2|Murchison Falls NP|26k–71k|Largest NP, iconic waterfall on the Nile|
 |3|Lake Mburo NP|12.5k–23k|Closest to Kampala, zebras & impalas|
