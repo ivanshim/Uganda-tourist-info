@@ -12,7 +12,7 @@
 |9|Rwenzori Mountains NP|1,000–2,700|Snow-capped peaks, trekking|
 |10|Kidepo Valley NP|<3,000|Remote but spectacular, lions & cheetahs|
 
-**Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda?utm_source=chatgpt.com).
+**Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda).
 
 **Entry fee (per 24 hrs):**  
 - Foreign non-residents (FNR): **US$35–45**  
