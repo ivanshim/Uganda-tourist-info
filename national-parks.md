@@ -14,6 +14,21 @@
 
 
 
+|Rank|National Park (NP)|Visitors per Year (approx.)|Notes|
+|-|-|-|-|
+|1|Queen Elizabeth NP|No data (likely highest)|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Most visited, tree-climbing lions, Kazinga Channel|
+|2|Murchison Falls NP|~50,000+|Entry fee: $45 (FNR), $35 (FR), UGX 25,000 (EA). Largest NP, iconic waterfall on the Nile|
+|3|Bwindi Impenetrable NP|~36,000|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Gorilla permit required: $700 (FNR), $600 (FR), UGX 250,000 (EA). UNESCO site|
+|4|Kibale NP|No data (tens of thousands)|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Chimp trekking permit: $200 (FNR), $150 (FR), UGX 150,000 (EA). Crater lakes|
+|5|Lake Mburo NP|No data (moderate)|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Closest to Kampala, zebras & impalas|
+|6|Rwenzori Mountains NP|No data (low-moderate)|Entry fee: $35 (FNR), $25 (FR), UGX 20,000 (EA). Trekking fees extra. Snow-capped peaks|
+|7|Mount Elgon NP|No data (moderate)|Entry fee: $35 (FNR), $25 (FR), UGX 20,000 (EA). Hiking & Sipi Falls nearby|
+|8|Semuliki NP|No data (low)|Entry fee: $35 (FNR), $25 (FR), UGX 20,000 (EA). Hot springs, Congo rainforest biodiversity|
+|9|Mgahinga Gorilla NP|No data (low)|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Gorilla permit: $700 (FNR). Golden monkeys|
+|10|Kidepo Valley NP|No data (low, remote)|Entry fee: $40 (FNR), $30 (FR), UGX 20,000 (EA). Remote but spectacular, lions & cheetahs|
+|11|Mountains of the Moon NP*|No data (very low)|Actually part of Rwenzori NP (same fees: $35 FNR, $25 FR, UGX 20,000 EA). Niche trekking|
+
+
 Uganda National Parks - direction & distance from Kampala
 
 | - | - | - |
