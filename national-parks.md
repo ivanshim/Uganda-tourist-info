@@ -1,19 +1,4 @@
 
-|Rank|National Park (NP)|Visitors per Year (approx.)|Notes|
-|-|-|-|-|
-|1|Queen Elizabeth NP|No data (likely highest)|Most visited, tree-climbing lions, Kazinga Channel|
-|2|Murchison Falls NP|~50,000+|Largest NP, iconic waterfall on the Nile|
-|3|Bwindi Impenetrable NP|~36,000|Gorilla trekking hotspot, UNESCO site|
-|4|Kibale NP|No data (tens of thousands)|Chimp trekking capital, crater lakes|
-|5|Lake Mburo NP|No data (moderate)|Closest to Kampala, zebras & impalas|
-|6|Rwenzori Mountains NP|No data (low-moderate)|Snow-capped peaks, trekking|
-|7|Mount Elgon NP|No data (moderate)|Extinct volcano, Sipi Falls nearby|
-|8|Semuliki NP|No data (low)|Hot springs, Congo rainforest biodiversity|
-|9|Mgahinga Gorilla NP|No data (low)|Single habituated gorilla group, golden monkeys|
-|10|Kidepo Valley NP|No data (low, remote)|Remote but spectacular, lions & cheetahs|
-|11|Mountains of the Moon NP*|No data (very low)|Sometimes considered part of Rwenzoris, niche trekking|
-
-
 |Rank|National Park (NP)|Approx. Annual Visitors (2006–2013)|Notes|
 |-|-|-|-|
 |1|Queen Elizabeth NP|44,000–88,000|Most visited, tree-climbing lions, Kazinga Channel|
@@ -27,8 +12,7 @@
 |9|Rwenzori Mountains NP|1,000–2,700|Snow-capped peaks, trekking|
 |10|Kidepo Valley NP|<3,000|Remote but spectacular, lions & cheetahs|
 
-
-
+**Reference:** Visitor numbers are from Uganda Ministry of Tourism statistics (2006–2013), summarized in [Tourism in Uganda – Wikipedia](https://en.wikipedia.org/wiki/Tourism_in_Uganda?utm_source=chatgpt.com).
 
 **Entry fee (per 24 hrs):**  
 - Foreign non-residents (FNR): **US$35–45**  
