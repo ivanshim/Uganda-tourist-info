@@ -19,6 +19,8 @@
 
 Uganda National Parks - direction & distance from Kampala
 
+
+| - | - | - |
 | - | - | - |
 | **North-West**<br>Murchison Falls (~300 km) | **North**<br>- | **North-East**<br>Kidepo Valley (~570 km) |
 | **West**<br>Kibale (~310 km)<br>Rwenzori (~400 km)<br>Semuliki (~360 km)<br>Toro-Semuliki WR (~320 km) | **Kampala (Centre)** | **East**<br>Mount Elgon (~230 km) |
