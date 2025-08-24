@@ -21,9 +21,9 @@
 - East African citizens (EA): **UGX 20,000–25,000**  
 
 **Special permits (per person):**  
-- Gorilla trekking: **US$700 (FNR), US$600 (FR), UGX 250,000 (EA)**  
-- Chimp trekking: **US$200 (FNR), US$150 (FR), UGX 150,000 (EA)**  
-- Rwenzori mountain climbing (per day): **US$35 (FNR), US$25 (FR), UGX 20,000 (EA)**  
+- Gorilla trekking (Bwindi Impenetrable NP, Mgahinga Gorilla NP): **US$700 (FNR), US$600 (FR), UGX 250,000 (EA)**  
+- Chimp trekking (Kibale NP – main site; also Kyambura Gorge in Queen Elizabeth NP, Budongo Forest near Murchison Falls): **US$200 (FNR), US$150 (FR), UGX 150,000 (EA)**  
+- Rwenzori mountain climbing (Rwenzori Mountains NP): **US$35 (FNR), US$25 (FR), UGX 20,000 (EA)**  
 
 
 
