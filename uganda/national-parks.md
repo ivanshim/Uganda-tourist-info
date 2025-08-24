@@ -41,6 +41,8 @@ permalink: /ugandas-national-parks/
 | **West**<br>Kibale (~310 km)<br>Rwenzori (~400 km)<br>Semuliki (~360 km) | **Kampala (Centre)** | **East**<br>Mount Elgon (~230 km) |
 | **South-West**<br>Bwindi (~480 km)<br>Queen Elizabeth (~410 km)<br>Lake Mburo (~240 km)<br>Mgahinga (~510 km) | **South**<br>- | **South-East**<br>- |
 
+**Reference:** [Parks &amp; Reserves - Uganda Wildlife Authority](https://ugandawildlife.org/parks-reserves/)
+
 ---
 
 Updated: 24th August 2025
