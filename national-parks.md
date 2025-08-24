@@ -25,7 +25,7 @@
 
 
 
-Uganda National Parks - direction & distance from Kampala
+**Uganda National Parks - direction & distance from Kampala**
 
 | - | - | - |
 | - | - | - |
