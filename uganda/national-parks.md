@@ -47,4 +47,4 @@ permalink: /ugandas-national-parks/
 
 ---
 
-Updated: 24th August 2025
+Updated: 26th August 2025
