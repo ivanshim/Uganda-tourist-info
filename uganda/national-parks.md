@@ -43,7 +43,7 @@ permalink: /ugandas-national-parks/
 
 **References:**
 - [Parks &amp; Reserves - Uganda Wildlife Authority](https://ugandawildlife.org/parks-reserves/){:target="_blank" rel="noopener noreferrer"}.
-- [UWA Conservation Tariff July 2024 to June 2026](https://github.com/ivanshim/ivanshim.github.io/raw/main/uganda/UWA-Conservation-Tariff-July-2024-June-2026.pdf)
+- [UWA Conservation Tariff July 2024 to June 2026](https://www.ivanshim.com/uganda/UWA-Conservation-Tariff-July-2024-June-2026.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
